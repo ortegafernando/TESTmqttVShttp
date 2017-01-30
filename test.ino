@@ -8,10 +8,10 @@ extern "C" {
 // make TCP connections
 WiFiClient client;
 
-const char* ssid     = "Internetete";
-const char* password = "gabino27";
+const char* ssid     = "xxxxx";
+const char* password = "xxxxx";
 const char* host = "api.thingspeak.com";
-const char* writeAPIKey = "WSU827KMOVTCAZRO";
+const char* writeAPIKey = "xxxxx";
 
 //Tipo 1
 #include <PubSubClient.h>
